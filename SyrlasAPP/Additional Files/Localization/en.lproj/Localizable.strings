@@ -1,0 +1,23 @@
+//
+//  Localizable.strings
+//  SyrlasAPP
+//
+//  Created by Tanirbergen Kaldibai on 13.03.2021.
+//
+
+"en" = "ru";
+"Hello dear friend!" = "Здравствуй, дорогой друг!";
+"Let's discuss how you are doing ^^" = "Давайте обсудим, как у вас дела ^^";
+"LOGIN" = "АВТОРИЗОВАТЬСЯ";
+"Hey, would you like to help me get to know you?" = "Эй, не хочешь помочь мне узнать тебя получше?";
+"SIGN UP" = "ПОДПИСЫВАТЬ";
+"Email ID" = "Идентификатор электронной почты";
+"Password" = "Пароль";
+"Forget Password?" = "Forget Password?";
+"MENU" = "МЕНЮ";
+"SYRLAS CHAT" = "СЫРЛАС ЧАТ";
+"Get Support" = "Получить поддержку";
+"For any requests, questions, or concerns please feel free to contact us below." = "Для любых запросов, вопросов или проблем, пожалуйста, не стесняйтесь обращаться к нам ниже.";
+"Call us - +7 7073485533 Mail us - syrlas_support@gmail.com" = "Звоните нам - +7 7073485533
+Напишите нам - syrlas_support@gmail.com";
+"Statistics of your condition" = "Статистика вашего состояния";
